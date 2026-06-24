@@ -76,7 +76,7 @@ Prediction endpoint:
 POST http://localhost:8000/predict
 Content-Type: application/json
 
-{ "text": "my email is hamza@example.com" }
+{ "text": "my email is jack@example.com" }
 ```
 
 ## Run The React Frontend
