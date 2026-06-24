@@ -1,1 +1,8 @@
 *.csv
+__pycache__/
+.pytest_cache/
+.venv/
+models/
+frontend/node_modules/
+frontend/dist/
+.pnpm-store/
